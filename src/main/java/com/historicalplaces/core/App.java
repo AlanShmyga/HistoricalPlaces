@@ -2,7 +2,7 @@ package com.historicalplaces.core;
 
 /**
  * Hello world!
- *
+ * Test git
  */
 public class App 
 {
